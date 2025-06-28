@@ -86,7 +86,6 @@ Output: Displays the image with predicted status (e.g., "LOOKING AT CAMERA")
 ###  Looking at Camera
 <p align="center">
   <img src="screenshots/looking_1.png" alt="Looking at Camera 1" height="400px" />
-  <img src="screenshots/looking_2.png" alt="Looking at Camera 2" height="400px" />
 </p>
 <p align="center">
   <em>Figure: Person detected as looking at the camera</em>
@@ -95,7 +94,6 @@ Output: Displays the image with predicted status (e.g., "LOOKING AT CAMERA")
 ###  Not Looking at Camera
 <p align="center">
   <img src="screenshots/not_looking_1.png" alt="Not Looking at Camera 1" height="400px" />
-  <img src="screenshots/not_looking_2.png" alt="Not Looking at Camera 2" height="400px" />
 </p>
 <p align="center">
   <em>Figure: Person detected as not looking at the camera</em>
