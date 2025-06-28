@@ -22,12 +22,10 @@ It outputs gaze angles, confidence scores, and determines if the person is looki
 ## 📁 Folder Structure
 
 ```
-
 ├── test.py              # Predicts gaze direction and visualizes results
 ├── training.py          # Trains the model and generates .keras file
 ├── requirements.txt     # Required Python packages
 └── screenshots/         # Demo visuals (looking_*.png, not_looking_*.png)
-
 ```
 
 ---
